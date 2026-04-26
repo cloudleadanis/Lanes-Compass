@@ -14,7 +14,7 @@
 
 | Person | Life goal (annual) | This quarter’s 1‑2 goals | Supports team goal | Success metric | Effort (hrs/wk) | Status | Last update |
 |--------|--------------------|--------------------------|--------------------|----------------|------------------|--------|--------------|
-| Anis  | Become a Platform Developer | 1. Build a tutorial to teach how to build a personal portfolio website. 2. Mentor new members | #0 | Build my own personal portfolio website + mentee feedback | 10 | 🟢 | Apr 26 |
+| Anis  | Become a Platform Developer | 0. Educate myself on GitHub 1. Build a tutorial to teach how to build a personal portfolio website. 2. Mentor new members | #0 | Build my own personal portfolio website + mentee feedback | 10 | 🟢 | Apr 26 |
 | Bob    | Learn Rust         | 1. Rustlings course<br>2. Bug triage (8h→4h) | #2 | Course completion + triage time | 6 (3+3) | 🟡 (Rust stuck) | Apr 25 |
 | Carol  | Improve public speaking | 1. Give team demo at weekly review<br>2. Write 2 docs | #1 | Demo done + docs published | 2 | 🟢 | Apr 26 |
 
