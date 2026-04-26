@@ -1,16 +1,16 @@
 # 🧭 Lanes Compass – [Quarter Year]
 
-## Team goals (max 3)
+## Team goals (max 3) (for team lead to fill in)
 1. [ ]  
 2. [ ]  
 3. [ ]  
 
-## Team norms (max 3)
+## Team norms (max 3) (for team lead to fill in)
 -  
 -  
 -  
 
-## Personal goals & alignment
+## Personal goals & alignment (for each team member to fill in)
 
 | Person | Life goal (annual) | This quarter’s 1‑2 goals | Supports team goal | Success metric | Effort (hrs/wk) | Status | Last update |
 |--------|--------------------|--------------------------|--------------------|----------------|------------------|--------|--------------|
