@@ -16,7 +16,7 @@
 |--------|--------------------|--------------------------|--------------------|----------------|------------------|--------|--------------|
 | Anis  | Become a Platform Developer | 0. Educate myself on GitHub 1. Build a tutorial to teach how to build a personal portfolio website. 2. Mentor new members | #0 | Build my own personal portfolio website + mentee feedback | 10 | 🟢 | Apr 26 |
 | Bob    | Learn Rust         | 1. Rustlings course<br>2. Bug triage (8h→4h) | #2 | Course completion + triage time | 6 (3+3) | 🟡 (Rust stuck) | Apr 25 |
-| Carol  | Improve public speaking | 1. Give team demo at weekly review<br>2. Write 2 docs | #1 | Demo done + docs published | 2 | 🟢 | Apr 26 |
+| JOC  | Become a Cyber Security Lead / CISO | 0. Educate myself on Github 1. Understand Baseline security concepts 2. Write articles dictating the lessons learned | #0 | Complete a Personal Portfolio Website and gain feedback from mentors | 8 | 🟢 | Apr 26 |
 
 ## Conflict resolution
 If personal goal blocks a team goal → leader decides within 48h.  
